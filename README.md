@@ -40,7 +40,7 @@ Backend / Database
 🌐 Live Demo
 
 🔗 Live App:
-(https://my-chat-app-virid.vercel.app/Chat)
+(https://my-chat-app-virid.vercel.app/)
 
 ---
 
