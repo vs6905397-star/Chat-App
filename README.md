@@ -1,16 +1,92 @@
-# React + Vite
+🚀 Real-Time Chat App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern full-stack real-time chat application built with React, Tailwind CSS, and Supabase.
 
-Currently, two official plugins are available:
+✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🔐 Authentication (Login / Signup)
+- 💬 Real-time messaging
+- 🟢 Online / Offline status
+- ✍️ Typing indicator
+- 🖼️ Image sharing
+- 👤 Profile editing
+- 🌗 Dark / Light mode
+- 🔍 User search
+- 📱 Fully responsive design
+- 🗑️ Delete messages
+- ⚡ Instant UI updates
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+Frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Tailwind CSS
+- Vite
+
+Backend / Database
+
+- Supabase
+- Supabase Auth
+- Supabase Realtime
+- Supabase Storage
+
+---
+
+---
+
+🌐 Live Demo
+
+🔗 Live App:
+(https://my-chat-app-virid.vercel.app/Chat)
+
+---
+
+📂 GitHub Repository
+
+🔗 Repository Link:
+(https://github.com/vs6905397-star/Chat-App)
+
+---
+
+---
+
+📦 Installation
+
+git clone (https://github.com/vs6905397-star/Chat-App)
+
+cd chat-app
+
+npm install
+
+npm run dev
+
+---
+
+🚀 Deployment
+
+Deployed using:
+
+- Vercel
+- Supabase
+
+---
+
+📚 What I Learned
+
+- React state management
+- Conditional rendering
+- Responsive UI design
+- Real-time applications
+- Supabase authentication
+- Storage & RLS policies
+- Debugging real-world issues
+- Deployment workflow
+
+---
+
+👨‍💻 Author
+
+Made with ❤️ by Vansh Sharma
